@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zubaida Sehnaz
-- https://gssoc.girlscript.tech/leaderboard?year=2024&username=Zubaida0113
+- https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=Zubaida0113
 
 
 <!---
