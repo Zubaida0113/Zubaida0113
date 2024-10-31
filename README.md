@@ -14,7 +14,7 @@
     <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="105px" height="105px" />
  </div>
 
- <summary><b>Hacktoberfest 2024 Badges</b></summary><br>
+ - <summary><b>Hacktoberfest 2024 Badges</b></summary><br>
  <div style='display:flex; align-items:center; gap: 30px;' align='center'>
  <img src="/level0-sloth-hello-0-0-0-0.webp" width="105px" height="105px" />
  <img src="/level1-sloth-hello-tea-0-0-0.webp" width="105px" height="105px" />
