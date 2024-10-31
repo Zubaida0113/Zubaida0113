@@ -3,7 +3,7 @@
 - <b> GSSOC EXTD 2024 STATS</b><br>
   Link - https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=Zubaida0113
   <summary><b>GSSOC(24) Badges </b></summary><br>
-  <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+  <div style='display:flex; align-items:center; gap: 10px;' align='center'>
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
@@ -15,7 +15,7 @@
  </div>
 
  <summary><b>Hacktoberfest 2024 Badges</b></summary><br>
- <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+ <div style='display:flex; align-items:center; gap: 30px;' align='center'>
  <img src="/level0-sloth-hello-0-0-0-0.webp" width="105px" height="105px" />
  <img src="/level1-sloth-hello-tea-0-0-0.webp" width="105px" height="105px" />
  <img src="/level2-sloth-hello-tea-robe-0-0.webp" width="105px" height="105px" />
