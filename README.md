@@ -16,9 +16,9 @@
 
  <summary><b>Hacktoberfest 2024 Badges</b></summary><br>
  <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
- <img src="/level0-sloth-hello-0-0-0-0.webp" width="105px" height="105px" />
- <img src="/level1-sloth-hello-tea-0-0-0.webp" width="105px" height="105px" />
- <img src="/level2-sloth-hello-tea-robe-0-0.webp" width="105px" height="105px" />
+ <img src="/level0-sloth-hello-0-0-0-0.webp" width="105px" height="105px style="margin-right: 20px;" />
+ <img src="/level1-sloth-hello-tea-0-0-0.webp" width="105px" height="105px style="margin-right: 20px;" />
+ <img src="/level2-sloth-hello-tea-robe-0-0.webp" width="105px" height="105px style="margin-right: 20px;" />
  <img src="/level3-sloth-hello-tea-robe-witch-0.webp" width="105px" height="105px" />
 </div>
 
