@@ -1,4 +1,4 @@
-<H1>👋 Hi, I’m Zubaida Sehnaz<H1><br>
+<h1>👋 Hi, I’m Zubaida Sehnaz<h1>
 <h2>I am a B.TECH (CSE) student from Galgotias University, India with an interest in working with frontend technologies and nature photography(depending on the sky &#128526;)</h2><br>
 
 - <b> GSSOC EXTD 2024 STATS</b><br>
