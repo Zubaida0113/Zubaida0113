@@ -1,11 +1,11 @@
-<h1>👋 Hi, I’m Zubaida Sehnaz<h1>
-<h2>I am a B.TECH (CSE) student from Galgotias University, India with an interest in working with frontend technologies and nature photography(depending on the sky &#128526;)</h2><br>
+# 👋 Hi, I’m Zubaida Sehnaz
+## I am a B.Tech (CSE) student from Galgotias University, India, with an interest in software technologies and nature photography (depending on the sky 😎).
 <!---
 Zubaida0113/Zubaida0113 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h2>💫 About Me:</h2>
-💻 I'm currently working on backend development projects using Java + Spring Boot and exploring scalable system design.<br><br>🤝 I'm looking to collaborate on open-source contributions, AI/ML projects, and full-stack web development.<br><br>🛠 I'm looking for help with advanced Spring Boot practices, cloud deployment, and backend optimizations.<br><br>📚 I'm currently learning Generative AI, backend system design, and advanced DSA for technical placements.<br><br>❓ Ask me about Python, Java, open-source contributions, and building end-to-end projects.<br><br>✨ Fun fact: I enjoy designing intuitive UIs as much as building optimized backend systems—bridging design and development is my superpower!
+## 💫 About Me:
+💻 I'm currently working on backend development projects using **Java + Spring Boot** and exploring scalable system design.<br><br>🤝 I'm looking to collaborate on open-source contributions, AI/ML projects, and full-stack web development.<br><br>🛠 I'm looking for help with Spring Boot practices, cloud deployment, and backend optimizations.<br><br>📚 I'm currently learning Generative AI, backend system design, and advanced DSA for technical placements.<br><br>❓ Ask me about Python, Java, open-source contributions, and building end-to-end projects.<br><br>✨ Fun fact: I enjoy designing intuitive UIs as much as building optimized backend systems—bridging design and development is my superpower!
 
 
 ## 🌐 Socials:
