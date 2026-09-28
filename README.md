@@ -1,18 +1,229 @@
-# 💫 About Me:
-👋 Hi, I’m Zubaida Sehnaz<br>Software Developer | Backend Engineering | AI-Powered Applications<br>I’m a Computer Science undergraduate and software developer passionate about building reliable backend systems, practical AI applications, and intuitive full-stack products.<br><br>I have experience developing enterprise solutions with Microsoft technologies and building end-to-end applications using Python, FastAPI, Flask, Java, Spring Boot, JavaScript, SQL, and Generative AI. I enjoy transforming real-world problems into clean, usable, and scalable software.<br><br>🎓 B.Tech in Computer Science and Engineering at Galgotias University — CGPA: 9.23<br><br>💼 Associate Software Engineer at MAQ Software<br><br>🌱 Open-source contributor ranked in the Top 6% among 4,000+ contributors<br><br>🤖 Interested in backend engineering, AI automation, NLP, and scalable system design<br><br>📍 Based in India<br><br>🚀 What I Bring<br>Backend development: REST APIs, business logic, database integration, validation, and modular architecture.<br><br>AI-powered applications: Generative AI, speech-to-text systems, NLP pipelines, task automation, and intelligent classification.<br><br>Full-stack development: Responsive interfaces connected to production-oriented backend services.<br><br>Enterprise technology experience: Power Apps, Power Automate, Dataverse, Canvas Apps, Azure, Power BI, SharePoint, and SQL Server.<br><br>Problem-solving mindset: I combine structured thinking, experimentation, and user-focused design to build practical solutions.<br><br>Open-source collaboration: Experience contributing features, improving projects, and working through pull requests.<br><br>🛠️ Featured Projects<br>🎙️ Talkify — AI-Powered Voice Task Manager<br>A full-stack task management application that converts natural-language voice commands into structured tasks.<br><br>Built with FastAPI, Python, SQLAlchemy, SQLite, JavaScript, Whisper, Gemini, and Pydantic.<br><br>Supports task creation, updating, completion, deletion, retrieval, priorities, due dates, filtering, and completion tracking.<br><br>Implemented a voice-to-task pipeline using speech recognition, rule-based extraction, and structured validation.<br><br>Added a human-in-the-loop confirmation workflow for safer AI-powered task actions.<br><br>View Talkify Repository<br><br>🏙️ CivicVoice AI — Municipal Complaint Management<br>An AI-powered platform for submitting, categorizing, and prioritizing municipal complaints through voice.<br><br>Built with Flask, JavaScript, Bootstrap, Whisper, Geopy, and RapidFuzz.<br><br>Converts voice complaints into structured text.<br><br>Uses rule-based NLP, fuzzy matching, and geolocation validation for automated triage.<br><br>Developed a scoring engine based on severity, infrastructure proximity, and trust metrics.<br><br>Created REST APIs for modular frontend-backend communication.<br><br>View CivicVoice AI Repository<br><br>🎵 Music Recommendation System<br>A lyrics-based recommendation system that generates personalized song suggestions.<br><br>Used TF-IDF and cosine similarity to measure song similarity.<br><br>Applied Pandas for preprocessing and Matplotlib for recommendation visualization.<br><br>Generated personalized top-10 recommendations from lyrics data.<br><br>View Deployed Project<br><br>Replace the # placeholders above with the actual repository and deployment links.<br><br>💻 Tech Stack<br>Languages and Web<br>Backend and Databases<br>AI, Data, and Automation<br>Tools and Platforms<br>🎯 Current Focus<br>I’m currently strengthening my skills in:<br><br>Java and Spring Boot backend development.<br><br>Scalable API and system design.<br><br>Cloud deployment and production engineering.<br><br>Generative AI integration and AI automation.<br><br>Data structures and algorithms for technical interviews.<br><br>Writing maintainable, testable, and well-documented software.<br><br>🔭 Future Direction<br>My goal is to grow into a backend-focused software engineer who builds intelligent and scalable products. I’m particularly interested in combining strong software engineering fundamentals with AI capabilities such as natural-language interfaces, workflow automation, recommendation systems, and intelligent decision support.<br><br>I’m open to collaborating on:<br><br>Backend and full-stack applications.<br><br>Generative AI and NLP projects.<br><br>Developer tools and automation platforms.<br><br>Civic-tech and socially useful applications.<br><br>Open-source projects involving Java, Python, or JavaScript.<br><br>🏆 Achievements<br>Ranked in the Top 6% among 4,000+ contributors during GirlScript Code of Summer.<br><br>Delivered 8+ feature enhancements and contributed 9 pull requests.<br><br>GSSoC 2024: Top 251 among 4,000 contributors.<br><br>HackerRank: 4-star Java.<br><br>LeetCode: 155+ problems solved.<br><br>University programming rank: 700 on GeeksforGeeks.<br><br>Certifications in Python, APIs, Java, databases, and web development.<br><br><br>
+<h1 align="center">
+ Hi 👋, I'm Zubaida Sehnaz
+</h1>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Zubaida0113&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Zubaida0113&theme=prussian&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Zubaida0113&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h3 align="center">
+Backend Engineer • AI Developer • Software Engineer
+</h3>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Zubaida0113&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Zubaida0113&limit=5&theme=prussian&combine_all_yearly_contributions=true)
+<p align="center">
+Building scalable backend systems, AI-powered applications, and practical software solutions.
+</p>
+<p align="center">
+<a href="https://zubaida0113.github.io/Personal-Portfolio/">🌐 Portfolio</a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Zubaida0113&icon=2&color=6)](https://visitcount.itsvg.in)
+
+# 💫 About Me
+
+🎓 B.Tech CSE @ **Galgotias University** (CGPA: **9.23**)
+
+💼 Associate Software Engineer @ **MAQ Software**
+
+🌱 Open Source Contributor ranked in the **Top 6% among 4000+ contributors**
+
+🤖 Passionate about:
+
+- Backend Engineering
+- Generative AI
+- NLP Applications
+- System Design
+- AI Automation
+- Cloud Engineering
+
+📍 UP, India
+
+---
+
+# 🚀 What I Bring
+
+### ⚙️ Backend Development
+- REST APIs
+- Database Design
+- Validation & Business Logic
+- Authentication & Authorization
+- Modular Architecture
+
+### 🤖 AI-Powered Applications
+- Generative AI
+- NLP Pipelines
+- Voice Interfaces
+- Speech-to-Text Systems
+- Intelligent Automation
+
+### 🌐 Full Stack Development
+- Frontend + Backend Integration
+- Production-ready Workflows
+- User-Centric Design
+
+### ☁️ Enterprise Technologies
+- Azure
+- Power Apps
+- Power Automate
+- Dataverse
+- Power BI
+- SharePoint
+- SQL Server
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+## Backend
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+## Databases
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+## AI / Data Science
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+
+## Cloud & Microsoft Stack
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+## Tools
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+
+
+---
+
+# 🌟 Featured Projects
+
+## 🎙️ Talkify — AI Voice Task Manager
+
+> Convert natural language voice commands into structured tasks.
+
+### Features
+✅ Speech-to-Text Pipeline
+
+✅ Task CRUD Operations
+
+✅ Due Dates & Priorities
+
+✅ AI Intent Parsing
+
+✅ Human-in-the-Loop Confirmation
+
+### Tech Stack
+
+FastAPI • Python • SQLAlchemy • SQLite • Whisper • Gemini • JavaScript
+
+🔗 Repository: **[TALKIFY](https://github.com/Zubaida0113/Talkify)**
+
+---
+
+## 🏙️ CivicVoice AI
+
+> AI-Powered Municipal Complaint Management System
+
+### Features
+
+✅ Voice Complaint Registration
+
+✅ Smart Categorization
+
+✅ Severity Scoring
+
+✅ Geolocation Validation
+
+✅ Automated Complaint Triage
+
+### Tech Stack
+
+Flask • Whisper • Bootstrap • RapidFuzz • Geopy
+
+🔗 Repository: **[CivicVoice AI](https://github.com/Zubaida0113/Major-Project-2026)**
+
+---
+
+## 🎵 Music Recommendation System
+
+> Lyrics-based recommendation engine
+
+### Features
+
+✅ TF-IDF
+
+✅ Cosine Similarity
+
+✅ Personalized Recommendations
+
+✅ Data Visualization
+
+### Tech Stack
+
+Python • Pandas • Matplotlib • Scikit-Learn
+
+🔗 Repository: **[Link](https://github.com/Zubaida0113/Music-Recommendation-System)**
+
+---
+
+# 🏆 Achievements
+
+🥇 Top 6% Contributor among 4000+ contributors
+
+🏅 GSSoC 2024 Top 251 Contributor
+
+💻 155+ Problems solved on LeetCode
+
+⭐ HackerRank 4-Star Java
+
+🚀 9 Pull Requests Merged
+
+🌱 8+ Open Source Features Delivered
+
+📈 GeeksforGeeks University Rank: 700
+
+---
+
+# 🎯 Current Focus
+
+- Java & Spring Boot
+- Backend Engineering
+- Distributed Systems
+- Cloud Deployment
+- Generative AI Workflows
+- System Design
+- DSA & Interview Preparation
+
+---
+
+# 🤝 Open For Collaboration
+
+✅ Backend Applications
+
+✅ Generative AI Projects
+
+✅ NLP Systems
+
+✅ Developer Tools
+
+✅ Automation Platforms
+
+✅ Civic Tech Solutions
+
+✅ Open Source Projects
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=zubaida0113&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=zubaida0113&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=zubaida0113&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</p>
+
+---
+
+<p align="center">
+✨ Building intelligent software that solves real-world problems ✨
+</p>
