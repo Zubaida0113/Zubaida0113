@@ -5,7 +5,9 @@
 <h3 align="center">
 Backend Engineer • AI Developer • Software Engineer
 </h3>
-
+<p align="center">
+Currently looking for full-time opportunity. If there are any opportunity, DM me on LinkedIn.
+</p>
 <p align="center">
 Building scalable backend systems, AI-powered applications, and practical software solutions.
 </p>
