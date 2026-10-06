@@ -3,10 +3,14 @@
 </h1>
 
 <h3 align="center">
-Backend Engineer • AI Developer • Software Engineer
+Backend Engineer • AI/ML Developer • Software Engineer • Data Scientist/Analyst
 </h3>
 <p align="center">
-Currently looking for full-time opportunity. If there are any opportunity, DM me on LinkedIn.
+  <strong>
+    🟢 OPEN TO WORK — FULL-TIME OPPORTUNITIES
+  </strong>
+  <br>
+  <a href="https://www.linkedin.com/in/zubaida-sehnaz-a5415b260">📩 DM me on LinkedIn for relevant opportunities</a>
 </p>
 <p align="center">
 Building scalable backend systems, AI-powered applications, and practical software solutions.
